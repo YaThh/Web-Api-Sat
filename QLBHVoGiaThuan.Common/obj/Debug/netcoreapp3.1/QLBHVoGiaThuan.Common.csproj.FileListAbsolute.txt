@@ -1,0 +1,13 @@
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.deps.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.runtimeconfig.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.runtimeconfig.dev.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.dll
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.pdb
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.csproj.AssemblyReference.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.AssemblyInfoInputs.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.AssemblyInfo.cs
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.csproj.CoreCompileInputs.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.dll
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.pdb
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.Common\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.genruntimeconfig.cache

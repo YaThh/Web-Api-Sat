@@ -1,0 +1,16 @@
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.deps.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.runtimeconfig.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.runtimeconfig.dev.json
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.dll
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.pdb
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.dll
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\bin\Debug\netcoreapp3.1\QLBHVoGiaThuan.Common.pdb
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.csproj.AssemblyReference.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.AssemblyInfoInputs.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.AssemblyInfo.cs
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.csproj.CoreCompileInputs.cache
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.csproj.CopyComplete
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.dll
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.pdb
+D:\QLBHVoGiaThuan\QLBHVoGiaThuan.DAL\obj\Debug\netcoreapp3.1\QLBHVoGiaThuan.DAL.genruntimeconfig.cache
