@@ -6003,11 +6003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.Web\\QLBHVoGiaThuan.Web.csproj",
+      "projectUniqueName": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.Web\\QLBHVoGiaThuan.Web.csproj",
       "projectName": "QLBHVoGiaThuan.Web",
-      "projectPath": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.Web\\QLBHVoGiaThuan.Web.csproj",
+      "projectPath": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.Web\\QLBHVoGiaThuan.Web.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.Web\\obj\\",
+      "outputPath": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6030,11 +6030,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj": {
-              "projectPath": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj"
+            "D:\\Web-Api-Sat\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj": {
+              "projectPath": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj"
             },
-            "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.Common\\QLBHVoGiaThuan.Common.csproj": {
-              "projectPath": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.Common\\QLBHVoGiaThuan.Common.csproj"
+            "D:\\Web-Api-Sat\\QLBHVoGiaThuan.Common\\QLBHVoGiaThuan.Common.csproj": {
+              "projectPath": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.Common\\QLBHVoGiaThuan.Common.csproj"
             }
           }
         }

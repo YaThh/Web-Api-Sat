@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FX3bTNsDwSgCeInvuAqFHntTe1SAMhQbBqCgJlTaF0T1aB2p/2XuvO4c+pxzjx599V1blDz6rGB8Wl0++K0Uww==",
+  "dgSpecHash": "e9yS+h8KnX1XSFkoL7vXwKO+4q3TXJmPO8tcN+HN/rUTI81VD9WiCxXKXrEli3DXC/LAFP3i2a2e6v/L//ARMA==",
   "success": true,
-  "projectFilePath": "D:\\QLBHVoGiaThuan\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj",
+  "projectFilePath": "D:\\Web-Api-Sat\\QLBHVoGiaThuan.BLL\\QLBHVoGiaThuan.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
